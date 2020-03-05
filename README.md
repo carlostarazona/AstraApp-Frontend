@@ -16,8 +16,6 @@ de no utilizar visual code buscar plugins similares
 
 ##  Configuración del proyecto
 ```
-Utilizar el siguiente comando antes de todo
-
 npm install @vue/cli
 
 ```
