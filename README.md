@@ -1,29 +1,35 @@
-# inventario_app.frontend
+# AstraApp-Frontend
 
-## Project setup
+## Requerimientos
 ```
-npm install
+-Tener instalado Visual Studio Code 
+-Tener instalado Node JS
+
+De usar visual code utilizar los siguientes plugins
+ -Vue VSCode Snippets
+ -vue
+ -Vue Peek
+ 
+de no utilizar visual code buscar plugins similares 
+
 ```
 
-### Compiles and hot-reloads for development
+## Comandos del Proyecto
+```
+Utilizar el siguiente comando antes de todo
+
+npm install @vue/cli
+
+```
+
+## Compila y minimiza para la producción.
+```
+npm run build
+
+```
+
+## Arranque del Proyecto
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
