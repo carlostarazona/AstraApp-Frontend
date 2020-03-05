@@ -14,7 +14,7 @@ de no utilizar visual code buscar plugins similares
 
 ```
 
-## Comandos del Proyecto
+##  Configuración del proyecto
 ```
 Utilizar el siguiente comando antes de todo
 
