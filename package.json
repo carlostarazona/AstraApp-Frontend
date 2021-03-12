@@ -10,7 +10,7 @@
     "@vue/cli": "^4.2.3",
     "axios": "^0.19.0",
     "core-js": "^2.6.5",
-    "jspdf": "^1.5.3",
+    "jspdf": "^2.3.1",
     "jspdf-autotable": "^3.1.1",
     "jwt-decode": "^2.2.0",
     "vue": "^2.6.10",
